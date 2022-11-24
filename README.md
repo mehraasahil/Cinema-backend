@@ -1,2 +1,2 @@
 # CinemaPara-Back
-[LiveDemo](https://cinema-backend.mehraasahil.repl.co/admin/)
+[LiveDemo](https://cinema-backend.mehraasahil.repl.co)
